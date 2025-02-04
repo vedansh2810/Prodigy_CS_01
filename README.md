@@ -26,8 +26,11 @@ Shift: 3
 Encrypted Message: Khoor Zruog!
 
 * Decryption
+
 Encrypted Message: Khoor Zruog!
+
 Shift: 3
+
 Decrypted Message: Hello World!
 
 
