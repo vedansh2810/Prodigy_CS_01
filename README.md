@@ -13,5 +13,18 @@ The Caesar cipher is one of the simplest and one of the earliest known encryptio
 ## Installation
 
 No installation is required. 
-Simply clone the repository and run the script using Python:
-```sh git clone https://github.com/your-username/Prodigy_CS_01.git
+Simply clone the repository and run the script using Python.
+
+## Example
+
+* Encryption
+Message: Hello World!
+Shift: 3
+Encrypted Message: Khoor Zruog!
+
+* Decryption
+Encrypted Message: Khoor Zruog!
+Shift: 3
+Decrypted Message: Hello World!
+
+
