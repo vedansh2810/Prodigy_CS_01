@@ -14,4 +14,4 @@ The Caesar cipher is one of the simplest and one of the earliest known encryptio
 
 No installation is required. 
 Simply clone the repository and run the script using Python:
-```shgit clone https://github.com/your-username/Prodigy_CS_01.git  *cd Prodigy_CS_01  *python caesar_cipher.py*
+```sh git clone https://github.com/your-username/Prodigy_CS_01.git
