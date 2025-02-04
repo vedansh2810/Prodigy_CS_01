@@ -18,8 +18,11 @@ Simply clone the repository and run the script using Python.
 ## Example
 
 * Encryption
+
 Message: Hello World!
+
 Shift: 3
+
 Encrypted Message: Khoor Zruog!
 
 * Decryption
